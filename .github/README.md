@@ -4,7 +4,7 @@ GitHub Activity Generator [![Gitter](https://badges.gitter.im/github-activity-ge
 A script that helps you *instantly* generate a beautiful GitHub Contributions Graph
 for the last year.
 
-Kyle Edit: I'm forking this to edit the script to spell out letters/words in the GitHub Contributions Graph. :)
+k: I'm forking this to edit the script to spell out letters/words in the GitHub Contributions Graph. :)
 
 ## ⚠ Disclaimer
 
